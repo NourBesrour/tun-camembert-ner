@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tun-camembert-ner"
-version = "0.1.1"
+version = "0.1.2"
 description = "Tunisian Named Entity Recognition for French text using CamemBERT"
 readme = "README.md"
 license = {file = "LICENSE"}
